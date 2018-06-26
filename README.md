@@ -56,4 +56,4 @@ According to OWASP document, sending malformed requests like changing HTTP proto
 
 ## _Sample Output_
 
-[[https://github.com/shounakitraj/BannerDetect/blob/master/SampleOutput.png|alt=octocat]]
+![alt text](https://github.com/shounakitraj/BannerDetect/blob/master/SampleOutput.png)
