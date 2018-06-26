@@ -53,3 +53,7 @@ Server version can be grabbed in 404 error page. This function is written to vis
 
 ### Changing HTTP protocol or its version
 According to OWASP document, sending malformed requests like changing HTTP protocol Name/Verb of Version is one of the useful test cases for determining Server version.
+
+## _Sample Output_
+
+[[https://github.com/shounakitraj/BannerDetect/blob/master/SampleOutput.png|alt=octocat]]
