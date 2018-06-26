@@ -11,9 +11,10 @@ Banner Grabing tool by Shounak Itraj
 ### Installation:
 
 Type the following in the terminal.
+
 git clone https://github.com/shounakitraj/BannerDetect.git /opt/bannerdetect
 
-he tool works on Python 2.7 and you should have Beautifulsoup installed.
+This tool works on Python 2.7 and you should have Beautifulsoup installed.
 
 |Library|Ubuntu|Windows|
 |:----------:|:-------------:|:------:|
