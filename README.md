@@ -15,7 +15,7 @@ git clone https://github.com/shounakitraj/BannerDetect.git /opt/bannerdetect
 
 he tool works on Python 2.7 and you should have Beautifulsoup installed.
 
-||Library||Ubuntu||Windows||
+|Library|Ubuntu|Windows|
 |:----------:|:-------------:|:------:|
 |BeautifulSoup|pip install BeautifulSoup|C:\Python27\Scripts\easy_install.exe BeautifulSoup|
 
