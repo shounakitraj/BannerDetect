@@ -38,7 +38,7 @@ Web Server sometimes may reveal its version if the unexpected/malformed request 
 
 Pre-defined Regex:
 
-```apache|JSP Engine|jetty|php|ssl``
+```apache|JSP Engine|jetty|php|ssl```
 
 ### Change Method
 In this function request is send to Server with different methods. If the Server is not configured correctly then it may reveal the version information in the response. Following methods are used for testing.
